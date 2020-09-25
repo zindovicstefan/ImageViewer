@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PraksaProjekat", "PraksaProjekat.csproj", "{9059E389-75F1-4849-A980-4EBDD7CCB2E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PraksaProjekat.UnitTests", "..\PraksaProjekat.UnitTests\PraksaProjekat.UnitTests.csproj", "{5C50ADED-CBB3-4643-A069-028ADC45DF09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9059E389-75F1-4849-A980-4EBDD7CCB2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9059E389-75F1-4849-A980-4EBDD7CCB2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9059E389-75F1-4849-A980-4EBDD7CCB2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9059E389-75F1-4849-A980-4EBDD7CCB2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C50ADED-CBB3-4643-A069-028ADC45DF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C50ADED-CBB3-4643-A069-028ADC45DF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C50ADED-CBB3-4643-A069-028ADC45DF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C50ADED-CBB3-4643-A069-028ADC45DF09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {042C05FC-14D4-48CA-8638-6058BF39BE27}
+	EndGlobalSection
+EndGlobal
